@@ -1,6 +1,6 @@
 # Delta_Control
 Delta机器人运动反解
-# MATLAB
+# MATLAB代码
 `
 function [theta1,theta2,theta3] = DeltaInversekinematic(x,y,z)
 R=90;
